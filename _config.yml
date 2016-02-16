@@ -1,0 +1,28 @@
+name: The Journey
+favicon: null
+layout_spectrum: 0.13626824249513447
+typography_spectrum: 0.9127237300854176
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.16554268053732812
+  lightness: 0.2144641454797238
+  saturation: 0.915405660867691
+  rhythmicContrast: 0.2603566737379879
+purpose: []
